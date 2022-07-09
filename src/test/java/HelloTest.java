@@ -16,5 +16,6 @@ public class HelloTest {
         System.out.println("after removal more changes");
         System.out.println("making");
         System.out.println("some more");
+        System.out.println("more and more");
     }
 }
