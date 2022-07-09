@@ -13,5 +13,6 @@ public class HelloTest {
         System.out.println("some more from master");
         System.out.println("after tracking idea");
         System.out.println("Removed idea");
+        System.out.println("after removal more changes");
     }
 }
