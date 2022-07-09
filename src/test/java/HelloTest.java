@@ -12,5 +12,6 @@ public class HelloTest {
         System.out.println("more changes from master");
         System.out.println("some more from master");
         System.out.println("after tracking idea");
+        System.out.println("Removed idea");
     }
 }
