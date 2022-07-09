@@ -17,5 +17,6 @@ public class HelloTest {
         System.out.println("making");
         System.out.println("some more");
         System.out.println("more and more");
+        System.out.println("after final");
     }
 }
