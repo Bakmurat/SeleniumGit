@@ -10,5 +10,6 @@ public class HelloTest {
         System.out.println("changes are from feature B branch");
         System.out.println("more changes from feature b branch");
         System.out.println("more changes from master");
+        System.out.println("some more from master");
     }
 }
