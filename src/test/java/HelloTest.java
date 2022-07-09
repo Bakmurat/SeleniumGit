@@ -9,5 +9,6 @@ public class HelloTest {
         System.out.println("new change from github");
         System.out.println("changes are from feature B branch");
         System.out.println("more changes from feature b branch");
+        System.out.println("more changes from master");
     }
 }
