@@ -20,5 +20,6 @@ public class HelloTest {
         System.out.println("after final");
         System.out.println("work1");
         System.out.println("work2");
+        System.out.println("work3");
     }
 }
